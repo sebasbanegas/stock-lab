@@ -4,6 +4,6 @@ Binarios versionados de Stock Lab.
 
 ## Ultima version publicada
 
-- Version: 2.2.8
-- Archivo: releases/v2.2.8/stock-lab-2.2.8.exe
-- SHA256: releases/v2.2.8/stock-lab-2.2.8.exe.sha256
+- Version: 3.0.2
+- Archivo: releases/v3.0.2/stock-lab-3.0.2.exe
+- SHA256: releases/v3.0.2/stock-lab-3.0.2.exe.sha256
